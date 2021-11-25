@@ -1,3 +1,5 @@
+[![gist](https://img.shields.io/badge/gist-100000?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/merveucer)
+
 ![thisIsMe](https://res.cloudinary.com/merveucer/image/upload/v1633535488/gitHub/thisIsMe_wovwo8.gif)
 
 <!--
