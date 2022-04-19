@@ -1,6 +1,6 @@
 [![gist](https://img.shields.io/badge/gist-100000?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/merveucer)
 
-![thisIsMe](https://res.cloudinary.com/merveucer/image/upload/v1633535488/gitHub/thisIsMe_wovwo8.gif)
+![thisIsMe](https://res.cloudinary.com/merveucer/image/upload/v1650388870/gitHub/thisIsMe_sd2eve.gif)
 
 <!--
 **merveucer/merveucer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
